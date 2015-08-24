@@ -108,6 +108,6 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:text="New Game" />
+        android:text="התחל משחק" />
 
 </RelativeLayout>
